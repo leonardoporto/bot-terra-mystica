@@ -5,9 +5,13 @@
   "author": "leonardo.porto.souza@gmail.com",
   "license": "MIT",
   "scripts": {
+    "start": "node src/server.js",
     "dev": "nodemon --exec \"node src/server.js\" -e js",
     "lint": "eslint '**/*.js'",
     "lint:fix": "eslint '**/*.js' --fix"
+  },
+  "engines": {
+    "node": "14.x"
   },
   "dependencies": {
     "axios": "^0.21.1",
