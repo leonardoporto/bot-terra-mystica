@@ -1,4 +1,3 @@
-
 module.exports = {
-    random: (max) => Math.floor(Math.random() * Math.floor(max))
+  random: (max) => Math.floor(Math.random() * Math.floor(max)),
 }

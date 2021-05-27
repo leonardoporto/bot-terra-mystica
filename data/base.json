@@ -1,0 +1,140 @@
+{
+    "worlds": [
+        "Basic",
+        "Loon Lakes",
+        "Fire&Ice1",
+        "Fire&Ice2"
+    ],
+    "colors2Land": {
+        "brown": "plains",
+        "black": "swamps",
+        "blue": "lakes",
+        "green": "forests",
+        "gray": "mountains",
+        "red": "wastelands",
+        "yellow": "deserts"
+    },
+    "factions": {
+        "brown" : [
+            {
+                "name": "cultist",
+                "homeland": "plains",
+                "expansion" : false
+            },
+            {
+                "name": "halflings",
+                "homeland": "plains",
+                "expansion": false
+            }
+        ],
+        "black" : [
+            {
+                "name": "alchemists",
+                "homeland": "swamps",
+                "expansion": false
+            },
+            {
+                "name": "darklings",
+                "homeland": "swamps",
+                "expansion": false
+            }
+        ],
+        "blue" : [
+            {
+                "name": "mermaids",
+                "homeland": "lakes",
+                "expansion": false
+            },
+            {
+                "name": "swarmlings",
+                "homeland": "lakes",
+                "expansion": false
+            }
+        ],
+        "green" : [
+            {
+                "name": "witches",
+                "homeland": "forests",
+                "expansion": false
+            },
+            {
+                "name": "auren",
+                "homeland": "forests",
+                "expansion": false
+            }
+        ],
+        "gray" : [
+            {
+                "name": "dwarves",
+                "homeland": "mountains",
+                "expansion": false
+            },
+            {
+                "name": "engineers",
+                "homeland": "mountains",
+                "expansion": false
+            }
+        ],
+        "red" : [
+            {
+                "name": "chaos magicians",
+                "homeland": "wastelands",
+                "expansion": false
+            },
+            {
+                "name": "giants",
+                "homeland": "wastelands",
+                "expansion": false
+            }
+        ],
+        "yellow" : [
+            {
+                "name": "nomads",
+                "homeland": "deserts",
+                "expansion": false
+            },
+            {
+                "name": "fakirs",
+                "homeland": "deserts",
+                "expansion": false
+            }
+        ],
+        "white" : [
+            {
+                "name": "icemaidens",
+                "homeland": null,
+                "expansion": true
+            },
+            {
+                "name": "yetis",
+                "homeland": null,
+                "expansion": true
+            }
+        ],
+        "orange" : [
+            {
+                "name": "dragonlords",
+                "homeland": null,
+                "expansion": true
+            },
+            {
+                "name": "acolytes",
+                "homeland": null,
+                "expansion": true
+            }
+        ],
+        "beige" : [
+            {
+                "name": "riverwalkers",
+                "homeland": null,
+                "expansion": true
+            },
+            {
+                "name": "shapeshifters",
+                "homeland": null,
+                "expansion": true
+            }
+        ]
+    
+
+}}
